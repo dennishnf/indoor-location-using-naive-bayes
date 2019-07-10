@@ -1,0 +1,2 @@
+# indoor-location-using-naive-bayes
+The scripts were intended to describe a Naive-Bayes-based approach to indoor location via WiFi signals. The data was captured with a Samsung J2 smartphone, however, another device with a WiFi Wireless module could be used. The scripts allow you to select the best access points, order the data into testing/training, visualize the data, perform Naive Bayes algorithm and obtain some metrics as indoor location accuracy and confusion matrix.
