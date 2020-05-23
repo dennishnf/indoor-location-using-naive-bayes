@@ -61,6 +61,11 @@ end procedure
 
 GNU General Public License, version 3 (GPLv3).
 
-You can visit my personal website: [http://dennishnf.bitbucket.io](http://dennishnf.bitbucket.io)!.
+
+## About ##
+
+By: Dennis Núñez-Fernández
+
+Website: [http://dennishnf.com](http://dennishnf.com)
 
 
